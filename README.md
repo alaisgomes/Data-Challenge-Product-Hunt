@@ -1,10 +1,11 @@
 #Data Challenge: Product Hunt
 Aline Gomes Tavares
+
 Hanan Cavalcante
 
 ##Hypothesis
 What is the most relevant day of the week to be active in ProductHunt? 
--Based on posts, votes and comments
+- Based on posts, votes and comments
 
 ## Tools and Process
 - MySQL database and SQL queries to collect data
