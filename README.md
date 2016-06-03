@@ -11,7 +11,7 @@ What is the most relevant day of the week to be active in ProductHunt?
 - MySQL database and SQL queries to collect data
 - Python to process data
 - Excel to generate graphics
-- 
+
 ## Analysis and Results
 ![img](https://github.com/alaisgomes/Data-Challenge-Product-Hunt/blob/master/images/graphic-1.jpg)
 ![img](https://github.com/alaisgomes/Data-Challenge-Product-Hunt/blob/master/images/graphic-2.jpg)
