@@ -9,7 +9,7 @@ import csv
 # open connection to database
 # fill up with needed credentials
 
-db = MySQLdb.connect(host="localhost", user="root", passwd="001831",
+db = MySQLdb.connect(host="localhost", user="root", passwd="",
 db="ProductHunt")
 
 
